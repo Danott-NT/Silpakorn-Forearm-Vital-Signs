@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Silpakorn-Forearm-Vital-Signs Method and Code
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nattapong
+    family-names: Tangjui
+    email: tangjui_n@su.ac.th
+    orcid: 'https://orcid.org/0009-0009-5715-5576'
+    affiliation: >-
+      Department of Computing, Faculty of Science Silpakorn
+      University, Nakhon Pathom, Thailand
+  - given-names: Pinyo
+    family-names: Taeprasartsit
+    email: pinyotae@gmail.com
+    affiliation: 'phenoMapper, LLC, CA, USA'
+    orcid: 'https://orcid.org/0009-0009-5715-5576'
+repository-code: 'https://github.com/Danott-NT/Silpakorn-Forearm-Vital-Signs'
+abstract: >-
+  This repository contains the necessary code for the
+  proposed method on our new dataset.
+keywords:
+  - iPPG
+  - independent component analysis
+  - non-facial pulse measurement
+  - FFT
